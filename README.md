@@ -22,6 +22,37 @@ No command line. No risk. Full control.
 
 ---
 
+## Use Cases
+
+- Securing sensitive documents before cloud upload  
+- Archiving project files with encryption  
+- Batch compression of media libraries  
+- Preparing files for secure email transfer  
+- Data backup with individual file protection  
+- Organizing large file collections  
+- IT administration and automation tasks  
+
+---
+
+## System Requirements
+
+- **OS**: Windows 10 / Windows 11  
+- **PowerShell**: 5.1 or later (included in Windows)  
+- **Optional**: WinRAR and/or 7-Zip for full features  
+
+No other dependencies required.
+
+---
+
+## Known Limitations
+
+- ZIP with password requires external tools (WinRAR or 7-Zip)  
+- RAR format requires WinRAR (7-Zip cannot create RAR)  
+- Sequential processing (not parallel)  
+- About window disabled during compression  
+
+---
+
 ## Supported Formats
 
 - **ZIP without password** – Built-in PowerShell (no tools needed)  
@@ -48,16 +79,6 @@ No command line. No risk. Full control.
 - ✅ Full support for all formats  
 - ✅ Create/Open ZIP with/without password  
 - ✅ Create/Open RAR with/without password  
-
----
-
-## System Requirements
-
-- **OS**: Windows 10 / Windows 11  
-- **PowerShell**: 5.1 or later (included in Windows)  
-- **Optional**: WinRAR and/or 7-Zip for full features  
-
-No other dependencies required.
 
 ---
 
@@ -115,18 +136,6 @@ Can be opened in Excel, Google Sheets, or any text editor.
 
 ---
 
-## Use Cases
-
-- Securing sensitive documents before cloud upload  
-- Archiving project files with encryption  
-- Batch compression of media libraries  
-- Preparing files for secure email transfer  
-- Data backup with individual file protection  
-- Organizing large file collections  
-- IT administration and automation tasks  
-
----
-
 ## Performance
 
 - ✅ No hardcoded file count limits  
@@ -135,15 +144,6 @@ Can be opened in Excel, Google Sheets, or any text editor.
 - ✅ Depending on file size and type, between 1-10 seconds  
 - ✅ UI remains responsive during compression  
 - ✅ Cancel button works immediately  
-
----
-
-## Known Limitations
-
-- ZIP with password requires external tools (WinRAR or 7-Zip)  
-- RAR format requires WinRAR (7-Zip cannot create RAR)  
-- Sequential processing (not parallel)  
-- About window disabled during compression  
 
 ---
 
