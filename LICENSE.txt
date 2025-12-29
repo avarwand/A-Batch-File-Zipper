@@ -1,0 +1,79 @@
+### **END USER LICENSE AGREEMENT (EULA) for "Avarwand Batch File Zipper"**
+
+This software, named **"Avarwand Batch File Zipper"**, is a **freeware** product developed and distributed by **Avarwand**.
+The software is designed to batch compress multiple files with optional individual password protection, creating separate ZIP or RAR archives for each file.
+This software is distributed as a PowerShell script (.ps1) with full source code available on GitHub.
+
+By installing, copying, or otherwise using this software, you agree to be bound by the terms of this End User License Agreement.
+
+---
+
+**1. LICENSE GRANT**
+You are granted a non-exclusive, non-transferable, worldwide license to install and use this software, free of charge, for both personal and commercial purposes.
+
+---
+
+**2. RESTRICTIONS**
+You agree that you will not, and will not permit others to:
+
+* Redistribute, sublicense, lease, rent, sell, or resell this software or any modified version of it without prior written permission from the author.
+* Remove, alter, or obscure any copyright, trademark, or proprietary notices from the source code or documentation.
+* Claim ownership, authorship, or origin of this software, or falsely represent it as your own work.
+* Use this software for any unlawful, malicious, or harmful purposes.
+* Distribute modified versions of this software without clearly indicating that it is a modified version and crediting the original author.
+
+---
+
+**3. PERMITTED MODIFICATIONS**
+You are permitted to modify the source code for personal use or to contribute improvements back to the original project.
+If you wish to distribute modified versions publicly, you must:
+
+* Clearly indicate that it is a modified version of the original software.
+* Maintain all original copyright notices and author attribution.
+* Provide credit to **Payam Avarwand** and **Avarwand** as the original author.
+* Obtain written permission from the author before public distribution of modified versions.
+
+---
+
+**4. OWNERSHIP**
+All rights, title, and interest in and to the software, including all intellectual property rights, are and shall remain the exclusive property of **Payam Avarwand** and **Avarwand**.
+
+---
+
+**5. DISCLAIMER OF WARRANTY**
+This software is provided **"as is"**, without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+The author shall not be liable for any damages, including but not limited to data loss, file corruption, or system damage, arising out of the use of or inability to use this software.
+
+---
+
+**6. LIMITATION OF LIABILITY**
+In no event shall the author or distributor be liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising from the use of or inability to use this software, even if advised of the possibility of such damages.
+
+---
+
+**7. THIRD-PARTY TOOLS**
+This software may utilize third-party compression tools (WinRAR, 7-Zip) when available.
+The use of such third-party tools is subject to their respective licenses.
+This license applies only to the Avarwand Batch File Zipper software itself, not to any third-party tools it may invoke.
+
+---
+
+**8. TERMINATION**
+This license is effective until terminated.
+Your rights under this license will terminate automatically without notice if you fail to comply with any term of this agreement.
+Upon termination, you must immediately cease all use of the software and destroy all copies in your possession.
+
+---
+
+**9. CONTACT INFORMATION**
+For permissions, questions, or support, please contact:
+
+**Author:** Payam Avarwand (Avarwand)  
+**Email:** payam_avar@yahoo.com  
+**GitHub:** https://github.com/payam-avarwand
+
+---
+
+© 2025 **Avarwand**. All rights reserved.
+
+---
