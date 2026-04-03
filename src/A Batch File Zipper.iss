@@ -1,15 +1,15 @@
-#define MyAppName "A Batch File Zipper"
+#define MyAppName "ABFZ"
 #define MyAppVersion "1.1"
 #define MyAppPublisher "Avarwand"
 #define MyAppURL "https://github.com/payam-avarwand/A-Batch-File-Zipper/releases/tag/Zipper"
-#define MyAppExeName "Batch File Zipper 1.1 - portable.exe"
+#define MyAppExeName "ABFZ 1.1 - portable.exe"
 #define MyAppIcon "D:\Payam Avarwand\My Repos\GitHub\Word-Books\Code\Avarwand Software Production\18- Batch File Zipper\Visual\file_manager_19718.ico"
-#define MyVbsLauncher "A Batch File Zipper_Launcher.vbs"
+#define MyVbsLauncher "ABFZ_Launcher.vbs"
 #define MyAppIconName "file_manager_19718.ico"
-#define MyAppFileVersion "1.1.6.12"
+#define MyAppFileVersion "1.1.9.88"
 
 [Setup]
-AppId={{A_Batch_File_Zipper.com.yahoo@Avar_Payam}
+AppId={{ABFZ.com.yahoo@Avar_Payam}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 AppVerName={#MyAppName} {#MyAppVersion}
@@ -39,7 +39,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "D:\Payam Avarwand\My Repos\GitHub\Avarwand\Software\A Batch File Zipper\installer\Batch File Zipper 1.1 - portable.exe"; DestDir: "{app}\lib"; Flags: ignoreversion
+Source: "D:\Payam Avarwand\My Repos\GitHub\Avarwand\Software\A Batch File Zipper\installer\ABFZ 1.1 - portable.exe"; DestDir: "{app}\lib"; Flags: ignoreversion
 Source: "{#MyAppIcon}"; DestDir: "{app}\lib"; Flags: ignoreversion
 
 
@@ -78,11 +78,11 @@ begin
     SaveStringToFile(VbsPath, VbsContent, False);
 
     // make the script hide and read-only
-    Exec('cmd.exe', '/C attrib +h +r +s "' + ExpandConstant('{app}\lib\{#MyAppExeName}') + '"', '', SW_HIDE, ewWaitUntilTerminated, ResultCode);
-    // Protect all files in the lib folder
-    Exec('cmd.exe', '/C attrib +h +r +s "' + ExpandConstant('{app}\lib\*.*') + '" /S', '', SW_HIDE, ewWaitUntilTerminated, ResultCode);
+    Exec('cmd.exe', '/C attrib +h +r "' + ExpandConstant('{app}\lib\{#MyAppExeName}') + '"', '', SW_HIDE, ewWaitUntilTerminated, ResultCode);
+
+
     // Protect the lib folder itself
-    Exec('cmd.exe', '/C attrib +h +r +s "' + ExpandConstant('{app}\lib') + '"', '', SW_HIDE, ewWaitUntilTerminated, ResultCode);
+    Exec('cmd.exe', '/C attrib +h "' + ExpandConstant('{app}\lib') + '"', '', SW_HIDE, ewWaitUntilTerminated, ResultCode);
 
     // Check if VBS file was created
     if not FileExists(VbsPath) then
@@ -110,6 +110,4 @@ begin
     end;
   end;
 end;
-
-
 
