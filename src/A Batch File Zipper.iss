@@ -3,10 +3,10 @@
 #define MyAppPublisher "Avarwand"
 #define MyAppURL "https://github.com/payam-avarwand/A-Batch-File-Zipper/releases/tag/Zipper"
 #define MyAppExeName "ABFZ 1.1 - portable.exe"
-#define MyAppIcon "D:\Payam Avarwand\My Repos\GitHub\Word-Books\Code\Avarwand Software Production\18- Batch File Zipper\Visual\file_manager_19718.ico"
+#define MyAppIcon "D:\Payam Avarwand\My Repos\GitHub\Word-Books\Code\Avarwand Software Production\18- Batch File Zipper\Visual\3\3.ico"
 #define MyVbsLauncher "ABFZ_Launcher.vbs"
-#define MyAppIconName "file_manager_19718.ico"
-#define MyAppFileVersion "1.1.9.88"
+#define MyAppIconName "3.ico"
+#define MyAppFileVersion "1.1.10.4"
 
 [Setup]
 AppId={{ABFZ.com.yahoo@Avar_Payam}
