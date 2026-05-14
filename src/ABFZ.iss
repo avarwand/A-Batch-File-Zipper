@@ -1,12 +1,12 @@
 #define MyAppName "ABFZ"
 #define MyAppVersion "1.1"
 #define MyAppPublisher "Avarwand"
-#define MyAppURL "https://github.com/payam-avarwand/A-Batch-File-Zipper/releases/tag/Zipper"
+#define MyAppURL "https://github.com/avarwand/A-Batch-File-Zipper/releases/tag/Zipper"
 #define MyAppExeName "ABFZ 1.1 - portable.exe"
-#define MyAppIcon "D:\Payam Avarwand\My Repos\GitHub\Word-Books\Code\Avarwand Software Production\18- Batch File Zipper\Visual\3\3.ico"
+#define MyAppIcon "D:\Payam Avarwand\My Repos\GitHub\Word-Books\Code\Avarwand Software Production\18- ABFZ\Visual\3\3.ico"
 #define MyVbsLauncher "ABFZ_Launcher.vbs"
 #define MyAppIconName "3.ico"
-#define MyAppFileVersion "1.1.10.4"
+#define MyAppFileVersion "1.1.10.15"
 
 [Setup]
 AppId={{ABFZ.com.yahoo@Avar_Payam}
@@ -110,4 +110,6 @@ begin
     end;
   end;
 end;
+
+
 
