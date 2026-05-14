@@ -1,4 +1,4 @@
-# Avarwand Batch File Zipper
+# Avarwand Batch File Zipper (ABFZ)
 
 A **powerful, modern PowerShell-based GUI tool** for **batch compression of multiple files** with optional individual password protection.  
 No command line. No risk. Full control.
