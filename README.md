@@ -161,7 +161,7 @@ This software is released as freeware under the following terms:
 
 **END USER LICENSE AGREEMENT (EULA)**
 
-This software is provided by **Payam Avarwand**, free of charge for personal and commercial use.
+This software is provided by **Avarwand**, free of charge for personal and commercial use.
 
 By installing or using this software, you agree to:
 - Use the software in compliance with the EULA  
@@ -173,15 +173,15 @@ By installing or using this software, you agree to:
 
 ---
 
-**Developed by Payam Avarwand**  
+**Developed by Avarwand Team**  
 **Initial Release: December 2025**
 
 ---
 
 ## Contact
 
-**Payam Avarwand**  
-📧 [payam_avar@yahoo.com](mailto:payam_avar@yahoo.com)
+**Avarwand**  
+📧 [Avarwand@yahoo.com](mailto:avarwand@yahoo.com)
 
 © 2025 Avarwand. All rights reserved.
 

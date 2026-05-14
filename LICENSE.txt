@@ -30,13 +30,13 @@ If you wish to distribute modified versions publicly, you must:
 
 * Clearly indicate that it is a modified version of the original software.
 * Maintain all original copyright notices and author attribution.
-* Provide credit to **Payam Avarwand** and **Avarwand** as the original author.
+* Provide credit to **Avarwand** as the original author.
 * Obtain written permission from the author before public distribution of modified versions.
 
 ---
 
 **4. OWNERSHIP**
-All rights, title, and interest in and to the software, including all intellectual property rights, are and shall remain the exclusive property of **Payam Avarwand** and **Avarwand**.
+All rights, title, and interest in and to the software, including all intellectual property rights, are and shall remain the exclusive property of **Avarwand**.
 
 ---
 
@@ -68,9 +68,9 @@ Upon termination, you must immediately cease all use of the software and destroy
 **9. CONTACT INFORMATION**
 For permissions, questions, or support, please contact:
 
-**Author:** Payam Avarwand (Avarwand)  
-**Email:** payam_avar@yahoo.com  
-**GitHub:** https://github.com/payam-avarwand
+**Author:** Avarwand  
+**Email:** avarwand@yahoo.com  
+**GitHub:** https://github.com/avarwand
 
 ---
 
