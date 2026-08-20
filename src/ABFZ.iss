@@ -7,6 +7,7 @@
 #define MyVbsLauncher "ABFZ_Launcher.vbs"
 #define MyAppIconName "3.ico"
 #define MyAppFileVersion "1.1.10.15"
+#define MyLicenseFile "D:\Payam Avarwand\My Repos\GitHub\Avarwand\Software\A Batch File Zipper\installer\ABFZ 1.1 - portable\ABFZ LICENSE.txt"
 
 [Setup]
 AppId={{ABFZ.com.yahoo@Avar_Payam}
@@ -24,6 +25,7 @@ UninstallDisplayIcon={app}\lib\{#MyAppIconName}
 OutputDir="D:\Payam Avarwand\My Repos\GitHub\Avarwand\Software\A Batch File Zipper\installer"
 OutputBaseFilename={#MyAppName}-{#MyAppVersion}-Setup
 SetupIconFile={#MyAppIcon}
+LicenseFile={#MyLicenseFile}
 SolidCompression=yes
 WizardStyle=modern
 PrivilegesRequiredOverridesAllowed=dialog
@@ -39,7 +41,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "D:\Payam Avarwand\My Repos\GitHub\Avarwand\Software\A Batch File Zipper\installer\ABFZ 1.1 - portable.exe"; DestDir: "{app}\lib"; Flags: ignoreversion
+Source: "D:\Payam Avarwand\My Repos\GitHub\Avarwand\Software\A Batch File Zipper\installer\ABFZ 1.1 - portable\ABFZ 1.1 - portable.exe"; DestDir: "{app}\lib"; Flags: ignoreversion
 Source: "{#MyAppIcon}"; DestDir: "{app}\lib"; Flags: ignoreversion
 
 
@@ -110,6 +112,3 @@ begin
     end;
   end;
 end;
-
-
-

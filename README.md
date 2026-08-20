@@ -157,32 +157,37 @@ Pull requests are currently not accepted.
 
 ## License
 
-This software is released as freeware under the following terms:
+**ABFZ is freeware**, released under a custom End User License Agreement (EULA) by **Avarwand**.
 
-**END USER LICENSE AGREEMENT (EULA)**
+In short, you are free to:
 
-This software is provided by **Avarwand**, free of charge for personal and commercial use.
+* **Use** ABFZ free of charge, for both personal and commercial purposes
+* **Share** ABFZ with anyone, redistributing, hosting, mirroring, and promoting it is welcome, as long as it is passed on **complete and unmodified**, **free of charge**, and with clear credit to **Avarwand**
 
-By installing or using this software, you agree to:
-- Use the software in compliance with the EULA  
-- Not reverse engineer, decompile, or modify the software  
-- Not redistribute or claim ownership of the software  
-- Accept the software "as is" without warranties  
+And you may not:
 
-*For full EULA terms, see the LICENSE file included in the repository.*
+* Sell ABFZ, monetize access to it, or lock it behind paywalls, donations, surveys, registration walls, or paid bundles
+* Reverse engineer, decompile, or modify it (except to the limited extent permitted by applicable law)
+* Claim it as your own work, or remove its copyright and branding notices
+
+ABFZ is provided **"as is"**, without warranty of any kind.
+
+*This summary is for convenience only. The legally binding terms are in the [LICENSE](LICENSE.md) file included with every release and in this repository.*
 
 ---
 
-**Developed by Avarwand Team**  
-**Initial Release: December 2025**
+**Developed by Avarwand**  
+**Latest Version: May 2026**
+**Initial Release: December 2025**  
 
 ---
 
 ## Contact
 
-**Avarwand**  
-📧 [Avarwand@yahoo.com](mailto:avarwand@yahoo.com)
+**Avarwand Support**  
+📧 [avarwand@yahoo.com](mailto:avarwand@yahoo.com)  
+🌐 [github.com/avarwand](https://github.com/avarwand/)
 
-© 2025 Avarwand. All rights reserved.
+© 2025–2026 Avarwand. All rights reserved.
 
 ---
