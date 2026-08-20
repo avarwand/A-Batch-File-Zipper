@@ -3,9 +3,9 @@
 ## ABFZ (Avarwand Batch File Zipper)
 
 
-This End User License Agreement (the "Agreement") is a legal agreement between you, either an individual or a legal entity ("You"), and **Avarwand** (independent software developer, the "Author") for the software product **"Avarwand Batch File Zipper"** ("ABFZ" or the "Software"), including its script files and any accompanying documentation.
+This End User License Agreement (the "Agreement") is a legal agreement between you, either an individual or a legal entity ("You"), and **Avarwand** (independent software developer, the "Author") for the software product **"Avarwand Batch File Zipper"** ("ABFZ" or the "Software").
 
-The Software is a **freeware** tool designed to batch compress files into individual archives (ZIP or RAR) with optional per-file password protection. It is distributed as a portable PowerShell script (PS1). Although the script is provided in human-readable form, it is proprietary software and is not released under an open-source license.
+The Software is a **freeware** tool designed to batch compress files into individual archives (ZIP or RAR) with optional per-file password protection.
 
 **By downloading, copying, running, or otherwise using the Software, You agree to be bound by the terms of this Agreement. If You do not agree to these terms, do not use the Software.**
 
