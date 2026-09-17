@@ -30,7 +30,7 @@ The Author welcomes the free sharing of the Software. Any person, organization, 
 5. **No deceptive or harmful distribution.** The Software must not be distributed together with malware, adware, or unwanted bundled software, nor through deceptive "download wrappers," pay-per-install installers, or similar schemes.
 Ordinary advertising on a hosting or promoting platform (for example, an ad-supported download website or a monetized video review) is permitted, provided that the Software itself remains free of charge and that the advertising does not gate or condition access to it (see condition 3 above).
  
-Where reasonably possible, please link to the official source: [github.com/avarwand/A-Batch-File-Zipper](https://github.com/avarwand/A-Batch-File-Zipper/releases/tag/Zipper)
+Where reasonably possible, please link to the official source: [github.com/avarwand/A-Batch-File-Zipper](https://github.com/avarwand/A-Batch-File-Zipper/releases/tag/abfz)
 
 ---
 

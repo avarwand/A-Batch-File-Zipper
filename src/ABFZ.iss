@@ -1,13 +1,13 @@
 #define MyAppName "ABFZ"
-#define MyAppVersion "1.1"
+#define MyAppVersion "1.4"
 #define MyAppPublisher "Avarwand"
-#define MyAppURL "https://github.com/avarwand/A-Batch-File-Zipper/releases/tag/Zipper"
-#define MyAppExeName "ABFZ 1.1 - portable.exe"
+#define MyAppURL "https://github.com/avarwand/A-Batch-File-Zipper/releases/tag/abfz"
+#define MyAppExeName "ABFZ 1.4 - portable.exe"
 #define MyAppIcon "D:\Payam Avarwand\My Repos\GitHub\Word-Books\Code\Avarwand Software Production\18- ABFZ\Visual\3\3.ico"
 #define MyVbsLauncher "ABFZ_Launcher.vbs"
 #define MyAppIconName "3.ico"
-#define MyAppFileVersion "1.1.10.15"
-#define MyLicenseFile "D:\Payam Avarwand\My Repos\GitHub\Avarwand\Software\A Batch File Zipper\installer\ABFZ 1.1 - portable\ABFZ LICENSE.txt"
+#define MyAppFileVersion "1.4.3.1"
+#define MyLicenseFile "D:\Payam Avarwand\My Repos\GitHub\Avarwand\Software\A Batch File Zipper\installer\ABFZ 1.4 - portable\LICENSE.txt"
 
 [Setup]
 AppId={{ABFZ.com.yahoo@Avar_Payam}
@@ -41,7 +41,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "D:\Payam Avarwand\My Repos\GitHub\Avarwand\Software\A Batch File Zipper\installer\ABFZ 1.1 - portable\ABFZ 1.1 - portable.exe"; DestDir: "{app}\lib"; Flags: ignoreversion
+Source: "D:\Payam Avarwand\My Repos\GitHub\Avarwand\Software\A Batch File Zipper\installer\ABFZ 1.4 - portable\ABFZ 1.4 - portable.exe"; DestDir: "{app}\lib"; Flags: ignoreversion
 Source: "{#MyAppIcon}"; DestDir: "{app}\lib"; Flags: ignoreversion
 
 
