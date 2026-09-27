@@ -1,8 +1,6 @@
-
-
 <div align="center">
 
-# Avarwand Batch File Zipper 1.4.3
+# A Batch File Zipper 1.4.3
 
 </div>
 
